@@ -85,3 +85,11 @@ form p a{
   background: #eaeaea;
   color: #555;
 }
+body {
+  margin-left: auto;
+  margin-right: auto;
+}
+footer {
+  text-align: center;
+}
+
